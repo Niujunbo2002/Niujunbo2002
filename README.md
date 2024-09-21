@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junbo Niu
-- 👀 I’m interested in Computer Vison and MLLM
+- 👀 I’m interested in Computer Vison and DeepLearning
 - 🌱 I’m currently learning MLLM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 21376334@buaa.edu.cn
