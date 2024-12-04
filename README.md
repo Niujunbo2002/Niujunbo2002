@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Junbo Niu
 - 👀 I’m interested in Computer Vison and Multi-Modal Learning, including Visual Pretraining, Scene Understanding (Detection and OCR), and Multi-Modal Large Language Models.
-- 🌱 I’m currently learning Video Understanding and OCR.
+- 🌱 I’m currently learning Video Understanding and Visual Generation.
 - 📫 How to reach me 21376334@buaa.edu.cn
 
 <!---
