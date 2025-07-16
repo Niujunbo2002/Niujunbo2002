@@ -10,10 +10,12 @@ You can click the Preview link to take a look at your changes.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
---->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Niujunbo2002&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="stat" />
-# Junbo Niu (Ph.D. Student)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Niujunbo2002&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="stat" />
+
+--->
+## Name
+- 👋 Hi, I’m Junbo Niu
 ## Education
 
 - 2025.09-*Present* Peking University Ph.D.
@@ -27,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 ## Skills
 
 - Natural Language: Chinese (Native); English (CET-6);
-- Programming Language: **Python**; C++; Java;
+- Programming Language: **Python**; C++; C;
 - Typesetting Language: **LaTeX**; Markdown
 - Programming Framework: **PyTorch**
