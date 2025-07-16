@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Junbo Niu
-- 👀 I’m interested in Computer Vision and Multi-Modal Learning, including Visual Pretraining, Scene Understanding (Detection and OCR), and Multi-Modal Large Language Models.
+- 👀 I’m interested in Computer Vision and Multi-Modal Learning, including Visual Pretraining, Scene Understanding (Detection and OCR), and DataCentric-AI.
 - 🌱 I’m currently learning Video Understanding and Multimodal Understanding and Generation.
 - 📫 How to reach me jbniu25@stu.pku.edu.cn
 
