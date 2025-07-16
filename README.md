@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hiyouga&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
 <img align="right" src="https://komarev.com/ghpvc/?username=hiyouga" alt="hiyouga" />
 --->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niujunbo2002&theme=dark&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Niujunbo2002&show_icons=true&theme=dark&hide_title=true&hide_rank=true" alt="stat" />
 # Junbo Niu (Ph.D. Student)
 
 ## Education
