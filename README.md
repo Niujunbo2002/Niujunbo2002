@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Junbo Niu
 ## Education
 
-- 2025.09-*Present* Peking University Ph.D.
-- 2021.09-2025.06 Beihang University B.Eng.
+- 2025.09-*Present* Peking University EECS Ph.D.
+- 2021.09-2025.06 Beihang University EE B.Eng.
 
 ## Research Interests
 
