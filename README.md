@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 - Multi-Modal Understanding
 - Reinforcement Learning
+- Self-Supervised Learning
 
 ## Skills
 
