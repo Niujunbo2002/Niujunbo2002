@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## Research Interests
 
 - Multi-Modal Understanding
-- DataCentric-AI
+- Reinforcement Learning
 
 ## Skills
 
