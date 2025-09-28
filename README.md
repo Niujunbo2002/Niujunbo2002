@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## Research Interests
 
 - Multi-Modal Understanding, especially **Long Video Understanding** and **Efficient/Dynamic High-Res Visual Perception**。
-- Reinforcement Learning
+- Foundation Model
 - Self-Supervised Learning
 
 ## Skills
